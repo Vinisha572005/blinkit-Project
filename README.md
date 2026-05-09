@@ -2,6 +2,8 @@
 
 A data analysis project focused on understanding sales performance, customer behavior, product trends, and business insights from Blinkit sales data using Python and data visualization techniques.
 
+---
+
 ## 📌 Project Overview
 
 This project analyzes Blinkit sales data to identify key business insights such as:
@@ -15,6 +17,8 @@ This project analyzes Blinkit sales data to identify key business insights such 
 
 The analysis helps in making data-driven business decisions and improving operational efficiency.
 
+---
+
 ## 🚀 Features
 
 * 📈 Sales trend analysis
@@ -26,6 +30,8 @@ The analysis helps in making data-driven business decisions and improving operat
 * 📉 Customer purchasing pattern analysis
 * 📌 Business intelligence reporting
 
+---
+
 ## 🛠 Technologies Used
 
 * Python
@@ -36,6 +42,8 @@ The analysis helps in making data-driven business decisions and improving operat
 * Jupyter Notebook
 * Data Visualization
 * Git & GitHub
+
+---
 
 ## 📂 Project Structure
 
@@ -50,6 +58,8 @@ Blinkit-Sales-Analysis/
 └── README.md
 ```
 
+---
+
 ## 📊 Dataset Information
 
 The dataset contains information related to:
@@ -62,6 +72,8 @@ The dataset contains information related to:
 * Item visibility
 * Establishment year
 * Customer preferences
+
+---
 
 ## 🚀 How to Run the Project
 
@@ -89,6 +101,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+---
+
 ## 📈 Key Insights
 
 * High-demand product categories identified
@@ -97,9 +111,22 @@ jupyter notebook
 * Customer buying patterns vary by product type
 * Seasonal trends influence sales performance
 
+---
+
+## 📸 Screenshots
+
+<img width="1364" height="681" alt="output1" src="https://github.com/user-attachments/assets/ac439228-58e4-4a66-9a03-8a9525cd35bc" />
+<img width="1361" height="681" alt="output2" src="https://github.com/user-attachments/assets/21107146-55af-47a5-b0fe-b4f00df452ec" />
+<img width="1365" height="685" alt="output3" src="https://github.com/user-attachments/assets/5b6a41e3-bf58-4e2d-9acf-33c7d3219a42" />
+
+
+---
+
 ## 🎯 Project Goal
 
 The objective of this project is to perform detailed exploratory data analysis (EDA) on Blinkit sales data and extract meaningful business insights for better decision-making.
+
+---
 
 ## 🔮 Future Improvements
 
@@ -109,9 +136,13 @@ The objective of this project is to perform detailed exploratory data analysis (
 * Advanced customer segmentation
 * Forecasting and trend prediction
 
+---
+
 ## 👩‍💻 Developer
 
 **Vinisha M**
+
+---
 
 ## ⭐ Support
 
